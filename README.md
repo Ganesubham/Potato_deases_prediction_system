@@ -1,1 +1,2 @@
 # Potato_deases_prediction_system
+The Potato Disease Prediction System is designed to provide an intelligent, real-time tool for detecting potato leaf diseases such as Early Blight and Late Blight. Initially, classical machine learning models were implemented; however, they delivered lower accuracy because we were just flattening the image and training the model with it. In contrast, Convolutional Neural Networks (CNNs) use multiple convolutional and max-pooling layers before flattening the array, making it much smaller and improving the training process.
