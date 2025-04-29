@@ -1,4 +1,4 @@
-# 🥔 Potato Disease Prediction System 2025
+# 🥔 Potato Disease Prediction System
 
 A robust deep learning-based system to detect and classify potato leaf diseases—**Early Blight**, **Late Blight**, and **Healthy**—using Convolutional Neural Networks and Ensemble Learning. Built with accessibility in mind for farmers, this system is deployable on both web and mobile platforms.
 
